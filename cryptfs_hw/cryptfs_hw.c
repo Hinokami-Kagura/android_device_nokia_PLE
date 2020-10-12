@@ -26,7 +26,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include <cryptfs_hw.h>
+#include cryptfs_hw.h"
 #include <stdlib.h>
 #include <string.h>
 #include <sys/limits.h>

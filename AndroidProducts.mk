@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_PLE.mk \
-	$(LOCAL_DIR)/full_PLE.mk
+	$(LOCAL_DIR)/omni_ND1.mk \
+	$(LOCAL_DIR)/full_ND1.mk

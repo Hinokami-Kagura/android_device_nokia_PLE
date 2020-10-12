@@ -19,8 +19,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/fstab.qcom:root/fstab.qcom
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := PLE
-PRODUCT_NAME := full_PLE
+PRODUCT_DEVICE := ND1
+PRODUCT_NAME := full_ND1
 PRODUCT_BRAND := Nokia
 #PRODUCT_MODEL := G5
 PRODUCT_MANUFACTURER := Nokia
